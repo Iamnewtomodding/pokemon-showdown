@@ -659,6 +659,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	nihillight: {
 		inherit: true,
+		basePower: 200,
 		pp: 5,
 	},
 	noxioustorque: {
